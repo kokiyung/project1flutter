@@ -25,9 +25,9 @@ class HomePage extends StatelessWidget {
         backgroundColor: const Color(0xFFECFFE6),
       ),
       body: Container(
-        // Mengatur background halaman
+        
         decoration: const BoxDecoration(
-          color: Color(0xFFECFFE6), // Warna background
+          color: Color(0xFFECFFE6), 
         ),
         child: Center(
           child: Column(
